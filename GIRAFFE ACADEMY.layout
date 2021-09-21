@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="inputfromuser.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="176" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="guessinggame.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="strings.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="284" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="exponent.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="262" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="numbers.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="308" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="switch.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="494" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="2D_arrays_&amp;_nested_loops.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="106" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="functions.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="97" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="for_loop.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="252" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ifmore.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="335" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="shapes.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="197" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="return_statement.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="160" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="arrays.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="advanced_calc.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="661" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="madlibs.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="370" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="pointers.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="414" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="variables.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="456" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="datatypes.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="254" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="dowhile.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="while.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="195" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ifstatement.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="114" topLine="1" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

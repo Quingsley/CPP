@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\main.cpp
+	<iostream>
+
+1632198714 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\shapes.cpp
+	<iostream>
+
+1632200113 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\variables.cpp
+	<iostream>
+
+1632200721 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\datatypes.cpp
+	<iostream>
+
+1632208619 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\inputfromuser.cpp
+	<iostream>
+
+1632209187 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\basic_calc.cpp
+	<iostream>
+	<cmath>
+
+1632209891 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\madlibs.cpp
+	<iostream>
+
+1632212105 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\functions.cpp
+	<iostream>
+	<cmath>
+
+1632223797 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\return_statement.cpp
+	<iostream>
+	<cmath>
+
+1632224727 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\ifstatement.cpp
+	<iostream>
+
+1632227183 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\advanced_calc.cpp
+	<iostream>
+	<cmath>
+
+1632228113 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\switch.cpp
+	<iostream>
+	<cmath>
+
+1632228716 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\dowhile.cpp
+	<iostream>
+	<cmath>
+
+1632229915 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\guessinggame.cpp
+	<iostream>
+	<cmath>
+
+1632230716 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\for_loop.cpp
+	<iostream>
+	<cmath>
+
+1632232439 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\2d_arrays_&_nested_loops.cpp
+	<iostream>
+	<cmath>
+
+1632233555 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\giraffe academy\pointers.cpp
+	<iostream>
+	<cmath>
+

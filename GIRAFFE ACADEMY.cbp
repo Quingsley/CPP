@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GIRAFFE ACADEMY" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GIRAFFE ACADEMY" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GIRAFFE ACADEMY" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="2D_arrays_&amp;_nested_loops.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="Basic_calc.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="advanced_calc.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="arrays.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="datatypes.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="dowhile.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="exponent.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="for_loop.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="functions.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="guessinggame.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="ifmore.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="ifstatement.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="inputfromuser.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="madlibs.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="numbers.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="pointers.cpp" />
+		<Unit filename="return_statement.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="shapes.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="strings.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="switch.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="variables.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="while.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
