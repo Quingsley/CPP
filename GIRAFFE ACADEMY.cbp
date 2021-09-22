@@ -48,6 +48,14 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="classes&amp;objects.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="constructorfunctions.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="datatypes.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -68,6 +76,10 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="getters&amp;setters.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="guessinggame.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -80,6 +92,7 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="inheritance.cpp" />
 		<Unit filename="inputfromuser.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -96,7 +109,14 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="pointers.cpp" />
+		<Unit filename="objectfunction.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="pointers.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="return_statement.cpp">
 			<Option compile="0" />
 			<Option link="0" />
