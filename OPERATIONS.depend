@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1632317770 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\additionfunction.cpp
+	<iostream>
+	<cmath>
+
+1632319459 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\armstrongnumber.cpp
+	<iostream>
+	<cmath>
+
+1632379772 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\functioncall.cpp
+	<iostream>
+	<cmath>
+
+1632380379 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\divisibility_of_5.cpp
+	<iostream>
+	<cmath>
+
+1632382511 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\interest_rate.cpp
+	<iostream>
+	<cmath>
+
+1632383464 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\palindromenumber.cpp
+	<iostream>
+	<cmath>
+
+1632385180 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\recursion.cpp
+	<iostream>
+	<cmath>
+
+1632386345 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\strongnumber.cpp
+	<iostream>
+	<cmath>
+
+1632386948 source:c:\users\user\desktop\sem 2.1\com 213 procedural programming 2\c++\operations\swap.cpp
+	<iostream>
+	<cmath>
+
